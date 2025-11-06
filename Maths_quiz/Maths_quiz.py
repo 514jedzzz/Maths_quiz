@@ -18,7 +18,7 @@ first_name_entry.insert(0, "")
 first_name_entry.pack
  
  
-#Colours
+#Coloursk
 PASTEL_PINK = '#F03B39'
 window.config(bg=PASTEL_PINK)
  
