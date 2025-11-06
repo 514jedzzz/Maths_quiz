@@ -1,6 +1,7 @@
 import tkinter as Tk
 from tkinter import ttk
 import datetime
+import random
  
 # Window creation
 window = Tk.Tk()
